@@ -32,7 +32,5 @@ Amigo-Secreto/
 No se requiere instalación, simplemente descarga los archivos y abre `index.html` en un navegador web.
 
 ## 🏆 Autor
-Desarrollado por [Tu Nombre].
+Desarrollado por Yuritzi Calixto.
 
-## 📄 Licencia
-Este proyecto está bajo la licencia MIT. ¡Siéntete libre de usarlo y mejorarlo! 🎉
